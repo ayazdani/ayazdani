@@ -29,7 +29,6 @@ I really enjoy learning languages and frameworks like React, Angular, and Angula
   
 <p align="left">
 <a href="https://www.linkedin.com/in/arezoo-yazdani-621b2780/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arezooyazdani" height="30" width="40" /></a>
-<a href="live:73e97436b8f14a3f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="arezooyazdani" height="30" width="40" /></a>
 
 </p>
 
