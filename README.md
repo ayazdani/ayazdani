@@ -7,12 +7,20 @@ I really enjoy learning languages and frameworks like React, Angular, and Angula
 - 👯 I’m looking to collaborate with other developer
 - ⚡ Fun fact: I love Yoga and Journey
 
+---
+
+✍ Skills and Experience
+
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
+
 
 ---
+
 🧰 Development Toolbox 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 incn" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo icon" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo icon" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio code logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width="50" height="50" alt="google chrome logo icon"/>  
-
 
 ---
 💬 Connect with me:
