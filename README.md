@@ -12,7 +12,7 @@ I really enjoy learning languages and frameworks like React, Angular, and Angula
 ✍ Skills and Experience
 
 * ⚛ React
-* 📱 React Native
+* 📱 AngularJs
 * 💻 HTML, CSS, JS
 
 
