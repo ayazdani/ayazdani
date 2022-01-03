@@ -1,6 +1,6 @@
 ### Hi there, I'm Arezoo Yazdani! 👋 
 
-I really enjoy learning languages and frameworks like React, Angular, and AngularJs, as well as working in HTML5, CSS3, and JavaScript languages. I also enjoy analyzing the products, UI, UX, and design in general.
+I really enjoy learning languages and frameworks like React, Angular, and AngularJs, as well as working in HTML5, CSS3, JavaScript, and TypeScript. I also enjoy analyzing the products, UI, UX, and design in general.
 
 
 - 🌱 I’m currently learning Lerna, monorepo , and Front-end testing 
